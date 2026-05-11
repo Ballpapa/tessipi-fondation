@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <!-- Logo TESSIPI Foundation -->
+  <g>
+    <!-- Icône stylisée - figure humaine avec bras ouverts -->
+    <circle cx="25" cy="18" r="8" fill="#F97316"/>
+    <path d="M25 28 L25 50 M15 35 L25 28 L35 35 M18 50 L25 40 L32 50" 
+          stroke="#F97316" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- Texte TESSIPI -->
+    <text x="50" y="28" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">TESSIPI</text>
+
+    <!-- Texte Foundation -->
+    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" fill="#64748B">Foundation</text>
+  </g>
+</svg>
